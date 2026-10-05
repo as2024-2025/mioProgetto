@@ -1,0 +1,1 @@
+echo "# Il mio primo progetto Git">  README.md
